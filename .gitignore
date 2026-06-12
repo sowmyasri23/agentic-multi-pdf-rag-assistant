@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Uploaded PDFs
+uploads/
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Generated Reports
+*.pdf
